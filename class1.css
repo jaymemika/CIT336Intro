@@ -1,0 +1,32 @@
+body{
+  font-family: 'Pacifico', cursive;
+  font-size:20pt;
+  padding-left:10%;
+  padding-right:10%;
+  background-image:url("https://i.pinimg.com/236x/77/4a/98/774a988f131a572b954c418995e0b4a7--kawaii-japan.jpg");
+}
+
+.profile{
+  height:400px;
+  width:320px;
+  border-radius:25px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+img{
+    height:350px;
+  width:250px;
+  border-radius:25px;
+}
+
+p,td{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.bod{
+  background-color:white;
+  padding:5%;
+}
